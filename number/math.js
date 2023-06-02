@@ -7,3 +7,4 @@ let num1 = 8.50
 
 // const aleatorio = Math.round(Math.random()*(10 - 5 )+ 5); //numero aleatoria 
 // console.log(aleatorio); //number aleatorio
+
