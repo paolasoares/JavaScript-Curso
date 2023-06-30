@@ -1,1 +1,1 @@
-# TrinandoJS
+# TreinandoJS
