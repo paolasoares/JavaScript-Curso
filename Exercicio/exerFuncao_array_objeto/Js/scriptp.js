@@ -2,7 +2,7 @@ function meuFormulario() {
     const form = document.querySelector('.form');
     const result = document.querySelector('.resultado')
 
-    const pessoa = [];
+    const pessoas = [];
 
 
     function recebeEvento(evento) {
@@ -20,7 +20,7 @@ function meuFormulario() {
             altura: altura.value,
         });
 
-        console.log(pessoa)
+        console.log(pessoas)
        
         result.innerHTML += `<p>${nome.value }, ${sobrenome.value }, ${peso.value}, ${altura.value}</p>`
     }
