@@ -13,7 +13,7 @@ function meuFormulario() {
         const peso = form.querySelector('.peso');
         const altura = form.querySelector('.altura');
 
-        pessoa.push({
+        pessoas.push({
             nome: nome.value,
             sobrenome: sobrenome.value,
             peso: peso.value,
